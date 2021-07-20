@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="NayaCloudServer" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="NayaCloudServer">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/naya/Project/projectFiles" local="$PROJECT_DIR$" web="/home/naya/Project/projectFiles" />
+            <mapping deploy="/home/naya/Project/projectFiles" local="$PROJECT_DIR$/report_provider" web="/home/naya/Project/projectFiles" />
+            <mapping deploy="/home/naya/Project/projectFiles" local="$PROJECT_DIR$/action_executor" web="/home/naya/Project/projectFiles" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>
